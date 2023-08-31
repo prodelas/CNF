@@ -1,7 +1,7 @@
 # Implementaciones del Algoritmo CNF y D&P 
 
 Contiene un código en `Haskell` que implementa la obtención de dada
-una fórmula proposicional una forma normal conjuntiva suya.
+una fórmula proposicional una forma normal conjuntiva suya. Si está interesado en la versión del código con comentarios en español, use los ficheros que contienen "_es" en el nombre; por el contrario, si prefiere que los comentarios aparezcan en inglés, use los correspondientes ficheros que contengan "_en".
 
 La siguiente lista representa un elenco de funciones involucradas en
 el código:
